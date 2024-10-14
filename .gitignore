@@ -1,0 +1,21 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+./icon.svg
+./icon.svg.import
+.import/
+.export/
+*.import
+
+.DS_Store
+Thumbs.db
+
+.project_settings.cfg
+
+bin/
+*.exe
+*.apk
+*.pck
+
+*.tmp
+*.swap
